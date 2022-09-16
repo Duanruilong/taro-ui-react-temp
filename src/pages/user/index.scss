@@ -1,0 +1,16 @@
+@import "~taro-ui/dist/style/components/badge.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+@import "~taro-ui/dist/style/components/grid.scss";
+@import "~taro-ui/dist/style/components/divider.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+
+.user {
+    padding: 24px 24px 0 24px;
+}
+
+.user-img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 24px;
+    border-radius: 30px;
+}
